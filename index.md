@@ -30,7 +30,7 @@ Supported arguments:
 
 ## Education
 
-### **Beijing Institute of Technology** `2008.9 - 2013.4`
+### **Beijing Institute of Technology** `2008.9 - 2014.3`
 
 ```
 Beijing, China
@@ -85,6 +85,14 @@ _Research Intern_<br>
 I was sponsored by Chinese Scholarship Council as joint Ph.D. at Idiap for a year, advised by [Phil Garner](http://www.idiap.ch/~pgarner).
 
 ## Publications
+
+### **Speech Recognition with Kaldi** (Chinese)
+
+Guoguo Chen, Jiayu Du, **Xingyu Na**, Junbo Zhang.<br>
+Publishing House of Electronics Industry, available on
+[JoyBuy](https://item.jd.com/12833388.html)
+[Amazon](https://www.amazon.cn/dp/B088QX6Q1J)
+[DangDang](http://product.dangdang.com/28529384.html)
 
 ### **AISHELL-2: Transforming Mandarin ASR Research Into Industrial Scale**
 
