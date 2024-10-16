@@ -56,7 +56,7 @@ _Senior Speech R&D Engineer_<br>
 Work on speech recognition that powers
 * Siri
 * Dictation
-* Live audio transcription that shipped on [iOS 18](https://support.apple.com/guide/iphone/get-live-captions-of-spoken-audio-iphe0990f7bb/ios) and [macOS Sequoia](https://support.apple.com/guide/mac-help/get-live-captions-of-spoken-audio-mchldd11f4fd/mac) (WWDC24).
+* Live audio transcription shipped with Apple Intelligence on [iOS 18](https://support.apple.com/guide/iphone/get-live-captions-of-spoken-audio-iphe0990f7bb/ios) and [macOS Sequoia](https://support.apple.com/guide/mac-help/get-live-captions-of-spoken-audio-mchldd11f4fd/mac) ([WWDC24](https://developer.apple.com/videos/play/wwdc2024/101/?time=5730)).
 
 ### **Microsoft, STC Asia** `2017.8 - 2020.8`
 
