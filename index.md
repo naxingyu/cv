@@ -50,7 +50,15 @@ Beijing, China
 
 ## Experience
 
-### **Microsoft, STC Asia** `2017.8 - `
+### **Apple, AIML** `2020.9 - `
+
+_Senior Speech R&D Engineer_<br>
+Work on speech recognition that powers
+* Siri
+* Dictation
+* Live audio transcription that shipped on [iOS 18](https://support.apple.com/guide/iphone/get-live-captions-of-spoken-audio-iphe0990f7bb/ios) and [macOS Sequoia](https://support.apple.com/guide/mac-help/get-live-captions-of-spoken-audio-mchldd11f4fd/mac) (WWDC24).
+
+### **Microsoft, STC Asia** `2017.8 - 2020.8`
 
 _Senior Applied Scientist_<br>
 Work on speech recognition features for [**Xiaoice**](https://news.microsoft.com/apac/features/much-more-than-a-chatbot-chinas-xiaoice-mixes-ai-with-emotions-and-wins-over-millions-of-fans/), in both [full-duplex](https://blogs.microsoft.com/ai/xiaoice-full-duplex/) and half-duplex fashion, covering various applicational scenarios, such as [IoT](https://pandaily.com/ces2018-microsoft-xiaomi-unveil-worlds-first-dual-ai-voice-assistant/). My duties are:
